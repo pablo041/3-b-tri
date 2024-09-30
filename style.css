@@ -16,5 +16,15 @@ text-align: center;
 }
 h1{
     font-size: 2rem;
-    
+  color: var(--bg-color)
+  font-weight: 700px;
 }
+ nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+ }
+ nav a { 
+    text-decoration: none;
+    
+ }
