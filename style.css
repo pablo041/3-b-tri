@@ -11,4 +11,10 @@ body { background-color: var(--bg-color);
     height:100vh;
     margin:0;
 }
-{head}
+header{ background-color: var(--primary-color);
+text-align: center;
+}
+h1{
+    font-size: 2rem;
+    
+}
