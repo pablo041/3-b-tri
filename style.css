@@ -8,7 +8,7 @@
 body{    background-color: var(--bg-color);
     color: var(--primary-color);
     font-family: var(--font);
-    height: 100vh;
+    height: 100vh;h
     margin: 0;
 }
 header { background-color: var(--primary-color);
